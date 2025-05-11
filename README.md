@@ -28,7 +28,7 @@ A lightweight, AI-assisted CRM application that enables customer segmentation, p
 | Backend       | Node.js (Express)       |
 | Database      | MongoDB (Mongoose)      |
 | AI Services   | Google Gemini API       |
-| Styling       | CSS / Tailwind (optional) |
+| Styling       | CSS / Tailwind          |
 | State Mgmt    | React Context API       |
 
 ---
